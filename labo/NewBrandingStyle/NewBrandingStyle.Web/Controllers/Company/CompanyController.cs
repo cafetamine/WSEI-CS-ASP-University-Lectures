@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using NewBrandingStyle.Web.Models.Company;
 
-namespace NewBrandingStyle.Web.Controllers
+namespace NewBrandingStyle.Web.Controllers.Company
 {
     public class CompanyController : Controller
     {
